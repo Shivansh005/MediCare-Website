@@ -1,0 +1,11 @@
+
+// copy and paste it in head of your webpage
+
+
+<link rel="stylesheet" type="text/css" href="./datatables.min.css">
+
+<script type="text/javascript" src="./jquery.min.js"></script>
+
+<script type="text/javascript" src="./datatables.min.js"></script>
+
+<script type="text/javascript"> $(document).ready( function () { $('#myTable').DataTable();} );</script>
