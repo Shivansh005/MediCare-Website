@@ -1,5 +1,9 @@
 𝑯𝒐𝒔𝒑𝒊𝒕𝒂𝒍 𝑾𝒆𝒃𝒔𝒊𝒕𝒆
 
+Video Link- https://drive.google.com/file/d/1boC7z6JVD7sjg1OhkT7DidKnACRw65kG/view?usp=sharing
+
+Devfolio Link- https://devfolio.co/submissions/medicare-website-9879
+
 Tech Stack used-
 
 𝟭. 𝗙𝗿𝗼𝗻𝘁-𝗲𝗻𝗱 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁
